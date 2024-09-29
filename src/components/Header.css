@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+.header{
+    width:100%;
+    position:absolute;
+    display:flex;
+    justify-content: space-between;
+    z-index:7;
+}
+.nav-bar-container{
+    display:flex;
+}
+.logo{
+    width: 107.12px;
+    height:40px;
+    margin-left: 50px;
+    margin-top:50px;
+}
+.nav-bar{
+    font-family: "Inter", sans-serif;
+    font-size:25px;
+    color:#FFFFFF;
+    margin-top: 60px;
+    margin-right:74px;
+}
+.nav-bar a{
+    margin-left:62px;
+}
+.search-container{
+    position: relative;
+    margin-top:50px;
+    display:flex;
+    align-items: center;
+}
+.search-icon{
+    position: absolute;
+    width:30px;
+    height:30px;
+    z-index:2;
+    left:13px;
+}
+.search{
+    position:relative;
+    width:295px;
+    height:50px;
+    background-color: rgba(182,182,182,20%);
+    padding-left:65px;
+    border:none;
+    margin-right:74px;
+    color:white;
+}
+.search::placeholder{
+    position: relative;
+    top:5px;
+    color:white;
+    font-family: "Inter", sans-serif;
+    font-size:25px;
+    font-weight:400;
+}
+.cart-menue{
+    margin-right:50px;
+    margin-top:50px;
+}
+.cart{
+    width:50px;
+    height:50px;
+    margin-right:65px;
+}
+.menue{
+    width:50px;
+    height:50px;
+}
+.nav-item{
+    cursor:pointer;
+}
