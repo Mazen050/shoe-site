@@ -6,7 +6,7 @@
 
 import Header from './components/Header'
 import './App.css'
-import nike from './assets/nike.png'
+import nike from './assets/nike.webp'
 import shoe1 from './assets/shoes/shoe1.png'
 import shoe1_sub1 from './assets/shoes/shoe1-sub1.png'
 import shoe1_sub2 from './assets/shoes/shoe1-sub2.png'
