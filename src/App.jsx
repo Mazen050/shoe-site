@@ -30,7 +30,7 @@ import shoe5_sub3 from './assets/shoes/shoe5-sub3.png'
 
 import circle_shoe1 from './assets/circle/1.webp'
 import circle_shoe2 from './assets/circle/2.webp'
-import circle_shoe3 from './assets/circle/3.webp'
+import circle_shoe3 from './assets/circle/3.png'
 import circle_shoe4 from './assets/circle/4.webp'
 import circle_shoe5 from './assets/circle/5.webp'
 
